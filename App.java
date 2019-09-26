@@ -1,7 +1,7 @@
 package part2;
 
-//Dominic Luu
 //Pazuzu Jindrich
+//Dominic Luu
 //5/8/2019
 //CS 401
 //HW 2
