@@ -1,2 +1,2 @@
 # Sorting-App
-JavaSwing App that allows user to select preferred sorting algorithm to sort data.
+JavaSwing application that allow user to select preferred sorting algorithm to sort data, given unsorted text file.
